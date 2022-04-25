@@ -1,6 +1,5 @@
 {
 	"name": "greenish",
-	"author": "greatest asian alive#9496",
 	"theme_color_map": {
 		"KEYBOARD": ["#001c1a", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#306d68", "#FFFFFF"],
@@ -26,20 +25,20 @@
 		"TEXT_NORMAL": ["#000000", "#FFFFFF"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK": "#b5ffe7",
 		"PRIMARY_DARK_100": "#FFFFFF",
-		"PRIMARY_DARK_300": "#FFFFFF",
-		"PRIMARY_DARK_360": "#FFFFFF",
-		"PRIMARY_DARK_400": "#FFFFFF",
-		"PRIMARY_DARK_500": "#FFFFFF",
-		"PRIMARY_DARK_600": "#FFFFFF",
-		"PRIMARY_DARK_630": "#FFFFFF",
-		"PRIMARY_DARK_700": "#FFFFFF",
-		"PRIMARY_DARK_800": "#FFFFFF",
-		"BRAND_NEW": "#FFFFFF",
-		"WHITE": "#FFFFFF"
+		"PRIMARY_DARK_300": "#5680bf",
+		"PRIMARY_DARK_360": "#699abf",
+		"PRIMARY_DARK_400": "#5680bf",
+		"PRIMARY_DARK_500": "#2f5752",
+		"PRIMARY_DARK_600": "#244f44",
+		"PRIMARY_DARK_630": "#244f44",
+		"PRIMARY_DARK_700": "#244f44",
+		"PRIMARY_DARK_800": "#244f44",
+		"BRAND_NEW": "#1f3d3b",
+		"WHITE": "#adfff1"
 	},
 	"unsafe_colors": {
-		"CHAT_GREY": "#000000"
+		"CHAT_GREY": "#1f3d3b"
 	}
 }
