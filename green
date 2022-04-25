@@ -21,9 +21,9 @@
 			"INTERACTIVE_ACTIVE": ["#ffe194","#FFFFFF"],
 			"INTERACTIVE_MUTED": ["#707070","#FFFFFF"],
 			"INTERACTIVE_NORMAL": ["#827e65","#FFFFFF"],
-			"TEXT_NORMAL": ["#fcf7d7","#FFFFFF"],
-			"TEXT_MUTED": ["#98ced4","#FFFFFF"],
-			"TEXT_LINK": ["#bf9856", "#FFFFFF"]
+			"TEXT_NORMAL": ["#489a87","#FFFFFF"],
+			"TEXT_MUTED": ["#9ef6b0","#FFFFFF"],
+			"TEXT_LINK": ["#9ef6b0", "#FFFFFF"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#ebf0ff",
